@@ -1,6 +1,8 @@
 # Space-Challenge
 
-This is a project for Udacity OOP class. The followings are project description.<br>
+This is a project for Udacity OOP class.<br>
+
+## Project Description
 
 In this project, you will build a simulation that will help us with our mission to Mars!<br>
 
@@ -32,5 +34,6 @@ Phase-2: <br>
 This phase is meant to send the colony of humans along with some food resources. Each line in the file also contains the item name and its Each line in the file contains the item name as well as its weight in Kgs. <br>
 Your job is to run some simulations and test both rocket types for each phase separately.<br>
 <br>
-An example of screenshot is as followed: <br>
-[![Space_Chanllenge_Screen_Shot.jpg](https://s20.postimg.org/ob31k25p9/Space_Chanllenge_Screen_Shot.jpg)](https://postimg.org/image/nlk97p55l/)
+
+## ScreenShot
+![Space_Chanllenge_Screen_Shot.jpg](https://image.ibb.co/jc7Lrc/Space_Chanllenge_Screen_Shot.jpg)
